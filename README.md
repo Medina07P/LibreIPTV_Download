@@ -5,7 +5,7 @@
 
   **Tu contenido IPTV en Android TV y móvil, sin complicaciones.**
 
-  ![Versión](https://img.shields.io/badge/versión-1.6.1-blue?style=flat-square)
+  ![Versión](https://img.shields.io/badge/versión-1.6.2-blue?style=flat-square)
   ![Plataforma](https://img.shields.io/badge/plataforma-Android%206.0%2B-green?style=flat-square)
   ![Android TV](https://img.shields.io/badge/Android%20TV-compatible-brightgreen?style=flat-square)
 </div>
@@ -31,8 +31,8 @@ sinopsis en español obtenidas automáticamente de TMDB.
 
 | Dispositivo | Archivo | Descarga |
 |---|---|---|
-| **Android móvil** (teléfono / tablet) | `LibreIPTV-1.6.1.apk` | [⬇️ Descargar última versión](https://github.com/Medina07P/LibreIPTV_Download/releases/latest) |
-| **Android TV / Google TV / Fire TV** | `LibreIPTV-1.6.1.apk` | [⬇️ Descargar última versión](https://github.com/Medina07P/LibreIPTV_Download/releases/latest) |
+| **Android móvil** (teléfono / tablet) | `LibreIPTV-1.6.2.apk` | [⬇️ Descargar última versión](https://github.com/Medina07P/LibreIPTV_Download/releases/latest) |
+| **Android TV / Google TV / Fire TV** | `LibreIPTV-1.6.2.apk` | [⬇️ Descargar última versión](https://github.com/Medina07P/LibreIPTV_Download/releases/latest) |
 
 > **Nota:** el APK es universal y funciona tanto en móvil como en Android TV.
 > Si en el futuro se publican variantes separadas, aparecerán nombradas de forma distinta.
@@ -64,7 +64,7 @@ sinopsis en español obtenidas automáticamente de TMDB.
 ### Opción B — Con ADB (usuarios avanzados)
 ```bash
 adb connect <ip-del-tv>
-adb install LibreIPTV-1.6.1.apk
+adb install LibreIPTV-1.6.2.apk
 ```
 
 ---
